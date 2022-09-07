@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Devana
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning R and Python
 - 📫 How to reach me at linkedin https://www.linkedin.com/in/devana-azzahra-salam-b68799207/
 
 <!---
